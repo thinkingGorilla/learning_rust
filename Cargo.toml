@@ -11,4 +11,25 @@ path = "src/print_macro/main.rs"
 name = "fizzbuzz"
 path = "src/fizzbuzz/main.rs"
 
+[[bin]]
+name = "print_mult_of_3"
+path = "src/print_mult_of_3/main.rs"
+
+[[bin]]
+name = "mult_table"
+path = "src/mult_table/main.rs"
+
+[[bin]]
+name = "convert_year_to_joseon_era"
+path = "src/convert_year_to_joseon_era/main.rs"
+
+[[bin]]
+name = "fibonacci"
+path = "src/fibonacci/main.rs"
+
+[[bin]]
+name = "calc_change_comb"
+path = "src/calc_change_comb/main.rs"
+
+
 [dependencies]
