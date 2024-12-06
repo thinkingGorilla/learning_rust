@@ -31,5 +31,24 @@ path = "src/fibonacci/main.rs"
 name = "calc_change_comb"
 path = "src/calc_change_comb/main.rs"
 
+[[bin]]
+name = "caesar_cipher"
+path = "src/caesar_chpher/main.rs"
+
+[[bin]]
+name ="multiplication"
+path = "src/multiplication/main.rs"
+
+[[bin]]
+name = "trial_division"
+path = "src/trial_division/main.rs"
+
+[[bin]]
+name = "ref"
+path = "src/ref/main.rs"
+
+[[bin]]
+name = "mutable_vector"
+path = "src/mutable_vector/main.rs"
 
 [dependencies]
